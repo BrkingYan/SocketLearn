@@ -2,7 +2,7 @@ package InetAddress;
 
 import java.net.*;
 import java.util.Enumeration;
-
+ 
 public class InetAddressDemo {
     public static void main(String[] args) {
         try {
